@@ -6,8 +6,7 @@ Este projeto tem como objetivo desenvolver um sistema integrado de chamados para
 |---------------|------------------------------------------|
 | Product Owner | Ana Clara Leão Ferreira                  |
 | Scrum Master  | Igor Sene Idalgo                         |
-| Desenvolvedores 
-| Mauricio R. Verdussen  <br> Pedro Henrique T. de Carvalho  <br> Henry M. Damasceno Santos  <br> Vinícius Gobis Novo |
+| Desenvolvedores | Mauricio R. Verdussen  <br> Pedro Henrique T. de Carvalho  <br> Henry M. Damasceno Santos  <br> Vinícius Gobis Novo |
 ---
 ## 🎯 Objetivos
 - Substituir o processo atual de suporte (e-mail e telefone)

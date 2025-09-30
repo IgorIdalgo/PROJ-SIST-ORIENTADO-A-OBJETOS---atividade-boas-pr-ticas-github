@@ -6,7 +6,7 @@ A empresa deseja adotar um **sistema integrado**, no qual os colaboradores possa
 
 ## Backlog do Produto
 
-Para o Backlog do Produto, acesse: [Backlog do Produto](https://github.com/anaclaraleao/Backlog-do-Produto)
+Para o Backlog do Produto, acesse: [Backlog do Produto](https://github.com/IgorIdalgo/Backlog-Produto)
 
 ## Evolução do Projeto
 Para a Evolução do Projeto, acesse: [Evolução do Projeto](https://github.com/anaclaraleao/Cronograma-de-evolu-ao-do-projeto)

@@ -1,8 +1,7 @@
 # 📌 Atividade da Disciplina – ASOO Projeto  
 
 ## 📝 Descrição do Desafio  
-Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas na priorização.  
-A empresa deseja adotar um **sistema integrado**, no qual os colaboradores possam registrar suas solicitações e a **IA** possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e na complexidade do problema.  
+Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas na priorização. A empresa deseja adotar um **sistema integrado**, no qual os colaboradores possam registrar suas solicitações e a **IA** possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e na complexidade do problema.  
 
 ## Backlog do Produto
 
